@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class LCP {
 
-//Longest Common Prefix (LCP) Problem
+//Longest Common Prefix (LCP) Encoding
     public static void main(String[] args) throws Exception {
 
 
